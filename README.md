@@ -1,3 +1,4 @@
+![Quantum Error Correction Lab banner](af0fbc42-26a5-4b49-8a0e-52399a5f0171.png)
 
 # Quantum Error Correction Lab
 
